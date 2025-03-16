@@ -40,7 +40,4 @@ BPFragmentODRL/
 - Fork this repo, then create a Pull Request (PR) for your changes.
 
 
-## Contributing
-- Fork this repo, then create a Pull Request (PR) for your changes.
-
 
