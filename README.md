@@ -23,11 +23,17 @@ pip install -r requirements.txt
 ## Folder Structure
 BPFragmentODRL/ 
 ├─ fragmenter.py 
+
 ├─ policy_generator.py 
+
 ├─ policy_checker.py 
+
 ├─ policy_metrics.py 
+
 ├─ main.py 
+
 ├─ dataset/ # sample BPMN files 
+
 └─ README.md
 
 ## Contributing
@@ -37,6 +43,4 @@ BPFragmentODRL/
 ## Contributing
 - Fork this repo, then create a Pull Request (PR) for your changes.
 
-## License
-MIT License (see LICENSE file)
 
